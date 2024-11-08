@@ -23,5 +23,22 @@ Make sure you have the following installed:
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/yourusername/adopt-me.git
-   cd adopt-me
+   git clone https://github.com/vickvey/adopt-me.git
+   cd adopt-me/
+
+2. Install the required dependencies:
+
+   ```bash
+   npm install
+
+3. Start the development server:
+
+   ```bash
+   npm run dev
+
+This will start a development server at [http://localhost:5173/](http://localhost:5173/). Click the link and see the demo.
+
+### Demo Image
+Below is a screenshot of the **AdoptMe** application in action:
+![Demo Image](./demo.png)
+
