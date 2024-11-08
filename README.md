@@ -4,6 +4,6 @@ To run or simulate:
 
 Clone the repository and run the following commands.
 ```bash
-  cd adoptme/
+  cd adopt-me/
   npm install
   npm run dev
