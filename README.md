@@ -24,7 +24,7 @@ Make sure you have the following installed:
 
    ```bash
    git clone https://github.com/vickvey/adopt-me.git
-   cd adopt-me/
+   cd AdoptMe-PetAdoptionSite/
 
 2. Install the required dependencies:
 
@@ -36,9 +36,13 @@ Make sure you have the following installed:
    ```bash
    npm run dev
 
-This will start a development server at [http://localhost:5173/](http://localhost:5173/). Click the link and see the demo.
+This will start a development server at [localhost](http://localhost:5173/). Click the link and see the demo.
 
 ### Demo Image
 Below is a screenshot of the **AdoptMe** application in action:
 ![Demo Image](./demo.png)
+
+### Acknowledgments
+- ReactJS for the powerful front-end library.
+- Inspiration from various pet adoption websites.
 
